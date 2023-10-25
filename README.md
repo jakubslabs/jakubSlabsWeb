@@ -1,2 +1,0 @@
-# jakubSlabsWeb
-Website Development
